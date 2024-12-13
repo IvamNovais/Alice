@@ -8,7 +8,7 @@ body {
     background: #007acc;
     color: white;
     text-align: center;
-    padding: 2rem;
+    padding: 1rem;
     font-family: 'Great Vibes', cursive;
     font-size: 2.5rem;
   }
@@ -16,7 +16,7 @@ body {
     background-image: url('./img/Design\ sem\ nome\ \(1\).png');
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
